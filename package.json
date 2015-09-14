@@ -1,0 +1,29 @@
+{
+  "name": "morgan-plus",
+  "version": "0.0.2",
+  "description": "Simple wrap of morgan ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CocaCola183/morgan-plus.git"
+  },
+  "keywords": [
+    "wrap",
+    "morgan"
+  ],
+  "author": "blackwhite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CocaCola183/morgan-plus/issues"
+  },
+  "homepage": "https://github.com/CocaCola183/morgan-plus#readme",
+  "dependencies": {
+    "fs-extra": "^0.24.0",
+    "merge": "^1.2.0",
+    "moment": "^2.10.6",
+    "morgan": "^1.6.1"
+  }
+}
